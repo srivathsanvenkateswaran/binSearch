@@ -8,7 +8,7 @@ int binSearch(vector<int>& arr, int key)
 
     int mid = 0;
 
-    while(left < right)
+    while(left <= right)
     {
         mid = (right + left) / 2;
 
