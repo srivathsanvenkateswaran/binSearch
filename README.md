@@ -1,3 +1,3 @@
 ## Binary Search
 
-Collection of code written for problems involving binary search.
+Collection of code for problems involving binary search.
